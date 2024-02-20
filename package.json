@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "node serve",
+    "build": "unocss"
+  },
+  "devDependencies": {
+    "@byyuurin/eslint-config": "^1.0.1",
+    "@unocss/cli": "^0.58.5",
+    "@unocss/eslint-plugin": "^0.58.5",
+    "eslint-plugin-format": "^0.1.0",
+    "live-server": "^1.2.2",
+    "unocss": "^0.58.5"
+  }
+}
